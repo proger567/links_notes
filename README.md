@@ -17,3 +17,5 @@ https://dev.to/oathkeeper/github-repos-for-learners-634
 ### Golang practices (kata)
 
 - https://github.com/MedUnes/go-kata
+- https://www.codewars.com
+- https://www.youtube.com/watch?v=pHl9r3B2DFI
